@@ -41,9 +41,10 @@ What I have learned &mdash;
  <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
  <img alt="ReactJs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+ <img alt="json" src="https://img.shields.io/badge/json-20232A?style=for-the-badge&logo=json&logoColor=61DAFB" />
  <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
- <img alt="typescript" src="https://img.shields.io/badge/typescript-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" /> 
- <img alt="php" src="https://img.shields.io/badge/php-%23141f00.svg?&style=for-the-badge&logo=java&logoColor=white" /> 
+ <img alt="php" src="https://img.shields.io/badge/php-%23141f00.svg?&style=for-the-badge&logo=php&logoColor=white" /> 
+ <img alt="Laravel" src="https://img.shields.io/badge/laravel-%23E34F26.svg?&style=for-the-badge&logo=laravel&logoColor=white" /> 
  <img alt="mui" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
  <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-gray?style=for-the-badge&logo=mysql&logoColor=4EA94B" />
